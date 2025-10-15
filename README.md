@@ -16,7 +16,7 @@
 
 ---
 
- <h3>🛠️ Tech Stack and tools</h3>
+ <h3 align="center">🛠️ Tech Stack and tools</h3>
 
 [![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
