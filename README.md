@@ -10,7 +10,7 @@
   <h3>🚀 About Me</h3>
 
 - 📚 FullStack Development and Cross-Platform Application Development Student at ThePower.
-- 🖥️ Take a look to my Portfolio here ()
+- 🖥️ Take a look to my Portfolio here (https://marcinladkiewicz.vercel.app/#)
 
 [![LinkedIn](https://img.icons8.com/color/50/000000/linkedin.png)](https://www.linkedin.com/in/marcin-ladkiewicz-026596306/)
 
