@@ -17,7 +17,7 @@
 ---
 
  <h3 align="center">🛠️ Tech Stack and tools</h3>
-
+<div align="center">
 [![HTML5](https://img.icons8.com/color/50/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.icons8.com/color/50/000000/css3.png)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.icons8.com/color/50/000000/javascript.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -27,6 +27,7 @@
 [![Bootstrap](https://img.icons8.com/color/50/000000/bootstrap.png)](https://getbootstrap.com/)
 [![Docker](https://img.icons8.com/color/50/000000/docker.png)](https://www.docker.com/)
 [![Git](https://img.icons8.com/color/50/000000/git.png)](https://git-scm.com/)
+</div>
 
 ---
 
